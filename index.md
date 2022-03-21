@@ -9,7 +9,7 @@ title: Anthony Nichols's CV
 <i class="fa fa-github"></i> <a href="http://github.com/aenichols">aenichols</a>
 </div>
 
-> I am a Software Engineer at BNG Team working on ConnectBooster. I have a high interest in Security, Programming and UI/UX. I have lived in Grand Junction most of my life but recently relocated to Fargo, North Dakota. I would consider myself an active person with a craving for adventure. Some of my hobbies and interests include skydiving, traveling, fishing and hiking.
+I am a Software Engineer at BNG Team working on ConnectBooster. I have a high interest in Security, Programming and UI/UX. I have lived in Grand Junction most of my life but recently relocated to Fargo, North Dakota. I would consider myself an active person with a craving for adventure. Some of my hobbies and interests include skydiving, traveling, fishing and hiking.
 
 ## Work Experience
 
