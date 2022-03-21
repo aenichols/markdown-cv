@@ -84,10 +84,12 @@ HTML, CSS, PHP, Javascript, Typescript, Angular
 Windows, WSL, Unix
 
 **Tools**
+
 Vim, Neovim, nvim-telescope, bash, Git, GNU Core Utilities, GNU debugger
 yaml, azure devops pipelines, docker, vscode, vs 17-22, ansible
 
 **Other**
+
 Unit testing, Socket Programming, TCP/IP,
 MVVM, RDBMS, OOP, Scrum, CAD, UI/UX Design, Lambda,
 virtual machines, Crystal reports
