@@ -4,10 +4,11 @@ title: Anthony Nichols's CV
 ---
 # Anthony E. Nichols
 <div id="webaddress">
-<a href="mailto:nichols.anthony@hotmail.com">nichols.anthony@hotmail.com</a>
+<a href="mailto:nichols.anthony@hotmail.com">Mail@nichols.anthony@hotmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/aenichols">aenichols</a>
+<i class="fa fa-github"></i> <a href="http://github.com/aenichols">Github@aenichols</a>
 </div>
+</br>
 
 I am a Software Engineer at BNG Team working on ConnectBooster. I have a high interest in Security, Programming and UI/UX. I have lived in Grand Junction most of my life but recently relocated to Fargo, North Dakota. I would consider myself an active person with a craving for adventure. Some of my hobbies and interests include skydiving, traveling, fishing and hiking.
 
@@ -53,7 +54,7 @@ __Colorado Mesa University <sub>Grand Junction, CO</sub>__
 
 Bachelor of Science Degree, Computer Science
 
-### Undergraduate Coursework (Major GPA 3.40)
+__Undergraduate Coursework <sub>Major GPA 3.40</sub>__
 Data Structures, Statistics, Calculus II, Computer Architecture and Assembly Language, Theory
 of Algorithms, Operating System Design, UNIX Operating Systems, Computer Networks,
 Database Design, Programming Languages, Discrete Structures, User Interface Design,
@@ -64,14 +65,13 @@ Python.
 `2015`
 - Colorado Mesa University- Dean’s List
 - Colorado Mesa University Student Showcase- Student Showcase Award- Track 1A Winner
-Bar Graph Generator – This project was to design and develop a user interface program
-and database for Ametek Vehicular Instrumentation Systems Incorporated to aid in the
-process of generating manufacturing specifications for their bar-graph style gauges.
-
+Bar Graph Generator – This project was to design and develop a user interface program and
+database for Ametek Vehicular Instrumentation Systems Incorporated to aid in the process
+of generating manufacturing specifications for their bar-graph style gauges.
 
 ## Technical skills
 
-**Languages / Frameworks**
+### Languages / Frameworks
 
 C#, .Net (framework, standard, core), ASP.Net, WPF, WCF, SQL, C++, C, Visual Basic,
 Identity, OAuth2 / 2.1, OpenId Connect,
@@ -79,16 +79,16 @@ Java, Lua, Rust,
 Bash, Python, MatLab, 
 HTML, CSS, PHP, Javascript, Typescript, Angular
 
-**Systems**
+### Systems
 
 Windows, WSL, Unix
 
-**Tools**
+### Tools
 
 Vim, Neovim, nvim-telescope, bash, Git, GNU Core Utilities, GNU debugger
 yaml, azure devops pipelines, docker, vscode, vs 17-22, ansible
 
-**Other**
+### Other
 
 Unit testing, Socket Programming, TCP/IP,
 MVVM, RDBMS, OOP, Scrum, CAD, UI/UX Design, Lambda,
@@ -102,7 +102,7 @@ My [personal github account](https://github.com/aenichols) hosts my hobby develo
 
 <!-- fa are fontawesome, ai are academicons -->
 * <i class="fa fa-envelope"></i> <a href="mailto:nichols.anthony@hotmail.com">nichols.anthony@hotmail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/aenichols">aenichols</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/aenichols">Github</a><br />
 * <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/anthony-nichols-497633110/">LinkedIn</a>
 
 ## References
