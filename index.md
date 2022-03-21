@@ -4,9 +4,9 @@ title: Anthony Nichols's CV
 ---
 # Anthony E. Nichols
 <div id="webaddress">
-<a href="mailto:nichols.anthony@hotmail.com">Mail@nichols.anthony@hotmail.com</a>
+<a href="mailto:nichols.anthony@hotmail.com">Mail: nichols.anthony@hotmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/aenichols">Github@aenichols</a>
+<i class="fa fa-github"></i> <a href="http://github.com/aenichols">Github: aenichols</a>
 </div>
 </br>
 
