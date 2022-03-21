@@ -9,7 +9,7 @@ title: Anthony Nichols's CV
 <i class="fa fa-github"></i> <a href="http://github.com/aenichols">Github: aenichols</a>
 </div>
 
-<img align="right" width="35%" src="https://media-exp1.licdn.com/dms/image/C5603AQF6jzPRvJ_t-w/profile-displayphoto-shrink_800_800/0/1571529396856?e=1653523200&v=beta&t=nG2XMJVnsD-iDxTOdz_yTG-hdtZYZBRTU8c7zrGzDJI" />
+<img align="left" width="35%" src="https://media-exp1.licdn.com/dms/image/C5603AQF6jzPRvJ_t-w/profile-displayphoto-shrink_800_800/0/1571529396856?e=1653523200&v=beta&t=nG2XMJVnsD-iDxTOdz_yTG-hdtZYZBRTU8c7zrGzDJI" />
 I am a Software Engineer at BNG Team working on ConnectBooster. I have a high interest in Security, Programming and UI/UX. I have lived in Grand Junction most of my life but recently relocated to Fargo, North Dakota. I would consider myself an active person with a craving for adventure. Some of my hobbies and interests include skydiving, traveling, fishing and hiking.
 
 
